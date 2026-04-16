@@ -1,4 +1,4 @@
-# llm-wiki：编译型个人知识库
+# llm-wiki skill：编译型个人知识库
 
 > 🧠 不是 RAG，是预编译 wiki。原始资料 → 编译 → 知识页面 → 查询。
 
@@ -6,6 +6,7 @@
 
 ## 核心理念
 
+基于大神思路制作的SKILL，原文：<script src="https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f.js"></script>
 llm-wiki 是一个**编译型知识库系统**，与传统 RAG（检索增强生成）有本质区别：
 
 | 对比维度 | 传统 RAG | llm-wiki |
