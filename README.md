@@ -6,7 +6,7 @@
 
 ## 核心理念
 
-基于大神思路制作的SKILL，原文： https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f.js
+基于大神思路制作的SKILL，原文： [https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f.js](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
 
 llm-wiki 是一个**编译型知识库系统**，与传统 RAG（检索增强生成）有本质区别：
 
